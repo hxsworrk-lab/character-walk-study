@@ -1,0 +1,324 @@
+{
+  "renderer": "Pillow 12.2.0",
+  "frameCount": 12,
+  "fps": 12,
+  "durationSeconds": 1,
+  "groupsPerFrame": 7,
+  "pathsPerFrame": 52,
+  "loopClosureImageEqual": true,
+  "frames": [
+    {
+      "frame": 0,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        18,
+        90,
+        124
+      ],
+      "transparentPixels": 12928,
+      "opaquePixels": 2677,
+      "antialiasedPixels": 779,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "bfd33c854e451940adf95fb2617f149f750387a481c1f7c2996d22df22ff52b8"
+    },
+    {
+      "frame": 1,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        17,
+        89,
+        123
+      ],
+      "transparentPixels": 12991,
+      "opaquePixels": 2669,
+      "antialiasedPixels": 724,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "c3efbc434440d387497f09e8d744b90bd3187c246730fb1e3847bdb6721c8667"
+    },
+    {
+      "frame": 2,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        16,
+        89,
+        120
+      ],
+      "transparentPixels": 13090,
+      "opaquePixels": 2649,
+      "antialiasedPixels": 645,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "606ddd9736c6464e7ac7c6ea7ee3e68dcce53b564286f0430de936c221f75988"
+    },
+    {
+      "frame": 3,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        16,
+        90,
+        115
+      ],
+      "transparentPixels": 13117,
+      "opaquePixels": 2588,
+      "antialiasedPixels": 679,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "509a32ed70118a05e72801f479ee0bcf23cf87513ce622d02908b48944fcf81d"
+    },
+    {
+      "frame": 4,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        16,
+        90,
+        111
+      ],
+      "transparentPixels": 13070,
+      "opaquePixels": 2569,
+      "antialiasedPixels": 745,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "80b2d61a7712a08b4ec7b09e6c648742fbea10f1c086e371e4ad6a8e152c5903"
+    },
+    {
+      "frame": 5,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        17,
+        92,
+        114
+      ],
+      "transparentPixels": 13067,
+      "opaquePixels": 2549,
+      "antialiasedPixels": 768,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "f21d575caee5590b69d0c55a3c08aaefc4db6fbaf9d1b1719020a94fe87a1862"
+    },
+    {
+      "frame": 6,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        37,
+        18,
+        94,
+        118
+      ],
+      "transparentPixels": 13004,
+      "opaquePixels": 2582,
+      "antialiasedPixels": 798,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "9492f87efe413043ef743d2259349d580ba53c3f9c61dfd2b103496b3cda6a3e"
+    },
+    {
+      "frame": 7,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        17,
+        92,
+        117
+      ],
+      "transparentPixels": 13038,
+      "opaquePixels": 2561,
+      "antialiasedPixels": 785,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "5f31822360e976df5e152392d1b8e6706df0a74f65c82273c63c01c1277201ca"
+    },
+    {
+      "frame": 8,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        16,
+        89,
+        114
+      ],
+      "transparentPixels": 13063,
+      "opaquePixels": 2611,
+      "antialiasedPixels": 710,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "33d436d1a301657ddf59cba44756c7d72b91d919d97f7f472689b419bbe551f9"
+    },
+    {
+      "frame": 9,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        16,
+        90,
+        110
+      ],
+      "transparentPixels": 13196,
+      "opaquePixels": 2566,
+      "antialiasedPixels": 622,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "9a6644b6003a59ab6f4342723fc7600e6e5f8c51398285d1800e414a5e083934"
+    },
+    {
+      "frame": 10,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        16,
+        89,
+        114
+      ],
+      "transparentPixels": 13167,
+      "opaquePixels": 2594,
+      "antialiasedPixels": 623,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "f556934a4f1ed67817f8f89cfd90052afe35dcab6fef0d9d63aa2b89e8070636"
+    },
+    {
+      "frame": 11,
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alphaBounds": [
+        39,
+        17,
+        89,
+        119
+      ],
+      "transparentPixels": 12998,
+      "opaquePixels": 2652,
+      "antialiasedPixels": 734,
+      "alpha1to3Pixels": 0,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "invisibleNonzeroRGBPixels": 0,
+      "sha256": "158295d8d48496c4d6b791588a9481d8c9b3b51c553da24f2bf5f67ad20f9c50"
+    }
+  ],
+  "svgRasterEquivalence": "NOT independently verified; SVG paths and Pillow use the same scene coordinates."
+}
