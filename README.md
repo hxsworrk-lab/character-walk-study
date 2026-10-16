@@ -15,7 +15,7 @@ The animated WebP contains the same twelve PNG frames, at 83 ms per frame. It is
 - [Twelve editable SVG frames](https://github.com/hxsworrk-lab/character-walk-study/tree/main/svg-frames): seven named groups and 52 paths per frame, without an embedded bitmap.
 - [Python source](build_probe.py) and [export measurements](metrics.json).
 
-The workflow uses code-authored projected geometry and SVG cutout paths, with Pillow raster exports from that same geometry. The PNGs are rendered directly by Pillow from the shared geometry, rather than from the SVG files. Development used AI coding assistance; no customer references, stock character, generated raster image or purchased asset is included in this study.
+The workflow uses code-authored projected geometry and SVG cutout paths, with Pillow raster exports from that same geometry. The PNGs are rendered directly by Pillow from the shared geometry, rather than from the SVG files. Development used AI coding assistance; no customer references, stock character, image-model output or purchased asset is included in this study.
 
 ## Scope of this example
 
