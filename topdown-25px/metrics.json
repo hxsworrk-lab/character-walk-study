@@ -1,0 +1,91 @@
+{
+  "self_initiated": true,
+  "client_work": false,
+  "source": "Original coordinate grid and named color-role palette; no imported art",
+  "facing": "north-facing interpretation; buyer acceptance unverified",
+  "unique_key_poses": 3,
+  "completed_8_frame_walk": false,
+  "all_animations_or_directions": false,
+  "palette": {
+    ".": null,
+    "o": "#182a32",
+    "h": "#44342f",
+    "H": "#775b48",
+    "s": "#d7a07a",
+    "S": "#a86d51",
+    "c": "#317d88",
+    "C": "#62a9ae",
+    "p": "#697889",
+    "P": "#3f5364",
+    "b": "#303039"
+  },
+  "frames": [
+    {
+      "name": "pose-0",
+      "size": [
+        25,
+        25
+      ],
+      "bbox": [
+        7,
+        7,
+        18,
+        17
+      ],
+      "opaque_colors": 10,
+      "alpha_values": [
+        0,
+        255
+      ],
+      "sha256": "b6489a1ebfc83e6fe6b82c6425ccfa9c7868ece93218116eb984ccb07b2ccf35"
+    },
+    {
+      "name": "pose-1",
+      "size": [
+        25,
+        25
+      ],
+      "bbox": [
+        7,
+        7,
+        18,
+        18
+      ],
+      "opaque_colors": 10,
+      "alpha_values": [
+        0,
+        255
+      ],
+      "sha256": "59295d8a0e6ef1b77fa0161eb5c83ae14b22db48434c74bb780cfb4a4d507638"
+    },
+    {
+      "name": "pose-2",
+      "size": [
+        25,
+        25
+      ],
+      "bbox": [
+        7,
+        7,
+        18,
+        18
+      ],
+      "opaque_colors": 10,
+      "alpha_values": [
+        0,
+        255
+      ],
+      "sha256": "1787d9611fd301709e67b1bc18baf4d8b943180dc57b40a0d254d29222d7cd78"
+    }
+  ],
+  "root": [
+    12,
+    13
+  ],
+  "checks": {
+    "head_region_identical": true,
+    "binary_alpha_only": true,
+    "no_antialiasing_or_gradients": true
+  },
+  "limitations": "Readability and perceived top-down angle/motion need actual visual and buyer review; structural checks are not artistic acceptance."
+}
