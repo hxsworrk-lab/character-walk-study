@@ -1,0 +1,473 @@
+{
+  "type": "tileset",
+  "version": "1.10",
+  "name": "field-crossing-code-study",
+  "tilewidth": 32,
+  "tileheight": 32,
+  "tilecount": 40,
+  "columns": 8,
+  "margin": 0,
+  "spacing": 0,
+  "image": "tiles.png",
+  "imagewidth": 256,
+  "imageheight": 160,
+  "properties": [
+    {
+      "name": "provenance",
+      "type": "string",
+      "value": "Self-initiated/code-authored pixel-format study; no client or third-party art."
+    },
+    {
+      "name": "path_mask_bits",
+      "type": "string",
+      "value": "N=1,E=2,S=4,W=8; a set bit joins road in that direction."
+    },
+    {
+      "name": "water_corner_bits",
+      "type": "string",
+      "value": "NW=1,NE=2,SE=4,SW=8; bilinear threshold0.5; shared vertex occupancy defines the shoreline."
+    }
+  ],
+  "tiles": [
+    {
+      "id": 0,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "grass-a"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "grass-b"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-01"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-02"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-03"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-04"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-05"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-06"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-07"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-08"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-09"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-10"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-11"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-12"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-13"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-14"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "path-NESW-mask-15"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-00"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-01"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-02"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-03"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-04"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-05"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-06"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-07"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-08"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-09"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-10"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-11"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-12"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-13"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-14"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "ground",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "water-corners-NW-NE-SE-SW-mask-15"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "type": "decoration",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "flowers-white"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "type": "decoration",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "flowers-rose"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "type": "decoration",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "rock"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "type": "decoration",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "sign"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "type": "decoration",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "canopy"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "type": "decoration",
+      "properties": [
+        {
+          "name": "study_name",
+          "type": "string",
+          "value": "trunk"
+        }
+      ]
+    }
+  ]
+}

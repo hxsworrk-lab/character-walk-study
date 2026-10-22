@@ -1,0 +1,2222 @@
+{
+  "type": "map",
+  "version": "1.10",
+  "orientation": "orthogonal",
+  "renderorder": "right-down",
+  "width": 16,
+  "height": 12,
+  "tilewidth": 32,
+  "tileheight": 32,
+  "infinite": false,
+  "nextlayerid": 6,
+  "nextobjectid": 20,
+  "backgroundcolor": "#678953",
+  "properties": [
+    {
+      "name": "title",
+      "type": "string",
+      "value": "Field Crossing"
+    },
+    {
+      "name": "provenance",
+      "type": "string",
+      "value": "Self-initiated/code-authored pixel-format study; no client or third-party art."
+    },
+    {
+      "name": "limits",
+      "type": "string",
+      "value": "Static Tiled-format study; no engine, client scene, physical test or paid delivery."
+    }
+  ],
+  "tilesets": [
+    {
+      "firstgid": 1,
+      "source": "tiles.tsj"
+    }
+  ],
+  "layers": [
+    {
+      "id": 1,
+      "name": "ground",
+      "type": "tilelayer",
+      "x": 0,
+      "y": 0,
+      "width": 16,
+      "height": 12,
+      "opacity": 1,
+      "visible": true,
+      "data": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        7,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        8,
+        2,
+        1,
+        1,
+        1,
+        1,
+        23,
+        31,
+        27,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        8,
+        1,
+        1,
+        1,
+        1,
+        1,
+        25,
+        34,
+        32,
+        27,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        10,
+        13,
+        13,
+        13,
+        13,
+        11,
+        21,
+        26,
+        34,
+        28,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        8,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        21,
+        22,
+        20,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        8,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        8,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        5,
+        13,
+        13,
+        13,
+        13,
+        18,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        11,
+        1,
+        1,
+        1,
+        1,
+        1,
+        8,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        8,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        8,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        4,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "name": "decor",
+      "type": "tilelayer",
+      "x": 0,
+      "y": 0,
+      "width": 16,
+      "height": 12,
+      "opacity": 1,
+      "visible": true,
+      "data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        35,
+        0,
+        37,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        40,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        35,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        36,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        36,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        36,
+        0,
+        0,
+        0,
+        0,
+        37,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        38,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        35,
+        0,
+        0,
+        36,
+        0,
+        0,
+        0,
+        35,
+        40,
+        0,
+        0,
+        0,
+        0,
+        36,
+        0,
+        0,
+        0,
+        37,
+        0,
+        0,
+        35,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        40,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "name": "objects",
+      "type": "objectgroup",
+      "draworder": "topdown",
+      "opacity": 1,
+      "visible": true,
+      "x": 0,
+      "y": 0,
+      "objects": [
+        {
+          "id": 1,
+          "name": "spawn",
+          "type": "spawn",
+          "point": true,
+          "x": 144.0,
+          "y": 240.0,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Static spawn annotation only; no engine behavior."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "sign-interaction",
+          "type": "interaction",
+          "x": 195,
+          "y": 197,
+          "width": 26,
+          "height": 27,
+          "rotation": 0,
+          "visible": true,
+          "properties": [
+            {
+              "name": "text",
+              "type": "string",
+              "value": "East: the pond. West: the meadow. North: the field path."
+            },
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Interaction rectangle annotation, not implemented game logic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "above-player",
+      "type": "tilelayer",
+      "x": 0,
+      "y": 0,
+      "width": 16,
+      "height": 12,
+      "opacity": 1,
+      "visible": true,
+      "data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        39,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        39,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        39,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 5,
+      "name": "collision",
+      "type": "objectgroup",
+      "draworder": "topdown",
+      "opacity": 0.35,
+      "visible": false,
+      "x": 0,
+      "y": 0,
+      "objects": [
+        {
+          "id": 3,
+          "name": "water-11-1-0",
+          "type": "water-geometry",
+          "x": 352,
+          "y": 32,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 16,
+              "y": 31
+            },
+            {
+              "x": 17,
+              "y": 31
+            },
+            {
+              "x": 17,
+              "y": 29
+            },
+            {
+              "x": 18,
+              "y": 29
+            },
+            {
+              "x": 18,
+              "y": 27
+            },
+            {
+              "x": 19,
+              "y": 27
+            },
+            {
+              "x": 19,
+              "y": 26
+            },
+            {
+              "x": 20,
+              "y": 26
+            },
+            {
+              "x": 20,
+              "y": 25
+            },
+            {
+              "x": 21,
+              "y": 25
+            },
+            {
+              "x": 21,
+              "y": 23
+            },
+            {
+              "x": 22,
+              "y": 23
+            },
+            {
+              "x": 22,
+              "y": 22
+            },
+            {
+              "x": 23,
+              "y": 22
+            },
+            {
+              "x": 23,
+              "y": 21
+            },
+            {
+              "x": 25,
+              "y": 21
+            },
+            {
+              "x": 25,
+              "y": 20
+            },
+            {
+              "x": 26,
+              "y": 20
+            },
+            {
+              "x": 26,
+              "y": 19
+            },
+            {
+              "x": 27,
+              "y": 19
+            },
+            {
+              "x": 27,
+              "y": 18
+            },
+            {
+              "x": 29,
+              "y": 18
+            },
+            {
+              "x": 29,
+              "y": 17
+            },
+            {
+              "x": 31,
+              "y": 17
+            },
+            {
+              "x": 31,
+              "y": 16
+            },
+            {
+              "x": 32,
+              "y": 16
+            },
+            {
+              "x": 32,
+              "y": 32
+            },
+            {
+              "x": 16,
+              "y": 32
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "water-12-1-0",
+          "type": "water-geometry",
+          "x": 384,
+          "y": 32,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 16
+            },
+            {
+              "x": 32,
+              "y": 16
+            },
+            {
+              "x": 32,
+              "y": 32
+            },
+            {
+              "x": 0,
+              "y": 32
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 12
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "water-13-1-0",
+          "type": "water-geometry",
+          "x": 416,
+          "y": 32,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 16
+            },
+            {
+              "x": 1,
+              "y": 16
+            },
+            {
+              "x": 1,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 18
+            },
+            {
+              "x": 5,
+              "y": 18
+            },
+            {
+              "x": 5,
+              "y": 19
+            },
+            {
+              "x": 6,
+              "y": 19
+            },
+            {
+              "x": 6,
+              "y": 20
+            },
+            {
+              "x": 7,
+              "y": 20
+            },
+            {
+              "x": 7,
+              "y": 21
+            },
+            {
+              "x": 9,
+              "y": 21
+            },
+            {
+              "x": 9,
+              "y": 22
+            },
+            {
+              "x": 10,
+              "y": 22
+            },
+            {
+              "x": 10,
+              "y": 23
+            },
+            {
+              "x": 11,
+              "y": 23
+            },
+            {
+              "x": 11,
+              "y": 25
+            },
+            {
+              "x": 12,
+              "y": 25
+            },
+            {
+              "x": 12,
+              "y": 26
+            },
+            {
+              "x": 13,
+              "y": 26
+            },
+            {
+              "x": 13,
+              "y": 27
+            },
+            {
+              "x": 14,
+              "y": 27
+            },
+            {
+              "x": 14,
+              "y": 29
+            },
+            {
+              "x": 15,
+              "y": 29
+            },
+            {
+              "x": 15,
+              "y": 31
+            },
+            {
+              "x": 16,
+              "y": 31
+            },
+            {
+              "x": 16,
+              "y": 32
+            },
+            {
+              "x": 0,
+              "y": 32
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "water-11-2-0",
+          "type": "water-geometry",
+          "x": 352,
+          "y": 64,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 32
+            },
+            {
+              "x": 16,
+              "y": 32
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "water-12-2-0",
+          "type": "water-geometry",
+          "x": 384,
+          "y": 64,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 32
+            },
+            {
+              "x": 0,
+              "y": 32
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 15
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "water-13-2-0",
+          "type": "water-geometry",
+          "x": 416,
+          "y": 64,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 1
+            },
+            {
+              "x": 17,
+              "y": 1
+            },
+            {
+              "x": 17,
+              "y": 3
+            },
+            {
+              "x": 18,
+              "y": 3
+            },
+            {
+              "x": 18,
+              "y": 5
+            },
+            {
+              "x": 19,
+              "y": 5
+            },
+            {
+              "x": 19,
+              "y": 6
+            },
+            {
+              "x": 20,
+              "y": 6
+            },
+            {
+              "x": 20,
+              "y": 7
+            },
+            {
+              "x": 21,
+              "y": 7
+            },
+            {
+              "x": 21,
+              "y": 9
+            },
+            {
+              "x": 22,
+              "y": 9
+            },
+            {
+              "x": 22,
+              "y": 10
+            },
+            {
+              "x": 23,
+              "y": 10
+            },
+            {
+              "x": 23,
+              "y": 11
+            },
+            {
+              "x": 25,
+              "y": 11
+            },
+            {
+              "x": 25,
+              "y": 12
+            },
+            {
+              "x": 26,
+              "y": 12
+            },
+            {
+              "x": 26,
+              "y": 13
+            },
+            {
+              "x": 27,
+              "y": 13
+            },
+            {
+              "x": 27,
+              "y": 14
+            },
+            {
+              "x": 29,
+              "y": 14
+            },
+            {
+              "x": 29,
+              "y": 15
+            },
+            {
+              "x": 31,
+              "y": 15
+            },
+            {
+              "x": 31,
+              "y": 16
+            },
+            {
+              "x": 32,
+              "y": 16
+            },
+            {
+              "x": 32,
+              "y": 32
+            },
+            {
+              "x": 0,
+              "y": 32
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 13
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "water-14-2-0",
+          "type": "water-geometry",
+          "x": 448,
+          "y": 64,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 16
+            },
+            {
+              "x": 1,
+              "y": 16
+            },
+            {
+              "x": 1,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 18
+            },
+            {
+              "x": 5,
+              "y": 18
+            },
+            {
+              "x": 5,
+              "y": 19
+            },
+            {
+              "x": 6,
+              "y": 19
+            },
+            {
+              "x": 6,
+              "y": 20
+            },
+            {
+              "x": 7,
+              "y": 20
+            },
+            {
+              "x": 7,
+              "y": 21
+            },
+            {
+              "x": 9,
+              "y": 21
+            },
+            {
+              "x": 9,
+              "y": 22
+            },
+            {
+              "x": 10,
+              "y": 22
+            },
+            {
+              "x": 10,
+              "y": 23
+            },
+            {
+              "x": 11,
+              "y": 23
+            },
+            {
+              "x": 11,
+              "y": 25
+            },
+            {
+              "x": 12,
+              "y": 25
+            },
+            {
+              "x": 12,
+              "y": 26
+            },
+            {
+              "x": 13,
+              "y": 26
+            },
+            {
+              "x": 13,
+              "y": 27
+            },
+            {
+              "x": 14,
+              "y": 27
+            },
+            {
+              "x": 14,
+              "y": 29
+            },
+            {
+              "x": 15,
+              "y": 29
+            },
+            {
+              "x": 15,
+              "y": 31
+            },
+            {
+              "x": 16,
+              "y": 31
+            },
+            {
+              "x": 16,
+              "y": 32
+            },
+            {
+              "x": 0,
+              "y": 32
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "water-11-3-0",
+          "type": "water-geometry",
+          "x": 352,
+          "y": 96,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 16
+            },
+            {
+              "x": 31,
+              "y": 16
+            },
+            {
+              "x": 31,
+              "y": 15
+            },
+            {
+              "x": 29,
+              "y": 15
+            },
+            {
+              "x": 29,
+              "y": 14
+            },
+            {
+              "x": 27,
+              "y": 14
+            },
+            {
+              "x": 27,
+              "y": 13
+            },
+            {
+              "x": 26,
+              "y": 13
+            },
+            {
+              "x": 26,
+              "y": 12
+            },
+            {
+              "x": 25,
+              "y": 12
+            },
+            {
+              "x": 25,
+              "y": 11
+            },
+            {
+              "x": 23,
+              "y": 11
+            },
+            {
+              "x": 23,
+              "y": 10
+            },
+            {
+              "x": 22,
+              "y": 10
+            },
+            {
+              "x": 22,
+              "y": 9
+            },
+            {
+              "x": 21,
+              "y": 9
+            },
+            {
+              "x": 21,
+              "y": 7
+            },
+            {
+              "x": 20,
+              "y": 7
+            },
+            {
+              "x": 20,
+              "y": 6
+            },
+            {
+              "x": 19,
+              "y": 6
+            },
+            {
+              "x": 19,
+              "y": 5
+            },
+            {
+              "x": 18,
+              "y": 5
+            },
+            {
+              "x": 18,
+              "y": 3
+            },
+            {
+              "x": 17,
+              "y": 3
+            },
+            {
+              "x": 17,
+              "y": 1
+            },
+            {
+              "x": 16,
+              "y": 1
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "water-12-3-0",
+          "type": "water-geometry",
+          "x": 384,
+          "y": 96,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 32
+            },
+            {
+              "x": 16,
+              "y": 32
+            },
+            {
+              "x": 16,
+              "y": 31
+            },
+            {
+              "x": 15,
+              "y": 31
+            },
+            {
+              "x": 15,
+              "y": 29
+            },
+            {
+              "x": 14,
+              "y": 29
+            },
+            {
+              "x": 14,
+              "y": 27
+            },
+            {
+              "x": 13,
+              "y": 27
+            },
+            {
+              "x": 13,
+              "y": 26
+            },
+            {
+              "x": 12,
+              "y": 26
+            },
+            {
+              "x": 12,
+              "y": 25
+            },
+            {
+              "x": 11,
+              "y": 25
+            },
+            {
+              "x": 11,
+              "y": 23
+            },
+            {
+              "x": 10,
+              "y": 23
+            },
+            {
+              "x": 10,
+              "y": 22
+            },
+            {
+              "x": 9,
+              "y": 22
+            },
+            {
+              "x": 9,
+              "y": 21
+            },
+            {
+              "x": 7,
+              "y": 21
+            },
+            {
+              "x": 7,
+              "y": 20
+            },
+            {
+              "x": 6,
+              "y": 20
+            },
+            {
+              "x": 6,
+              "y": 19
+            },
+            {
+              "x": 5,
+              "y": 19
+            },
+            {
+              "x": 5,
+              "y": 18
+            },
+            {
+              "x": 3,
+              "y": 18
+            },
+            {
+              "x": 3,
+              "y": 17
+            },
+            {
+              "x": 1,
+              "y": 17
+            },
+            {
+              "x": 1,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "water-13-3-0",
+          "type": "water-geometry",
+          "x": 416,
+          "y": 96,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 32
+            },
+            {
+              "x": 0,
+              "y": 32
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 15
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "water-14-3-0",
+          "type": "water-geometry",
+          "x": 448,
+          "y": 96,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 32
+            },
+            {
+              "x": 0,
+              "y": 32
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "water-12-4-0",
+          "type": "water-geometry",
+          "x": 384,
+          "y": 128,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 16
+            },
+            {
+              "x": 31,
+              "y": 16
+            },
+            {
+              "x": 31,
+              "y": 15
+            },
+            {
+              "x": 29,
+              "y": 15
+            },
+            {
+              "x": 29,
+              "y": 14
+            },
+            {
+              "x": 27,
+              "y": 14
+            },
+            {
+              "x": 27,
+              "y": 13
+            },
+            {
+              "x": 26,
+              "y": 13
+            },
+            {
+              "x": 26,
+              "y": 12
+            },
+            {
+              "x": 25,
+              "y": 12
+            },
+            {
+              "x": 25,
+              "y": 11
+            },
+            {
+              "x": 23,
+              "y": 11
+            },
+            {
+              "x": 23,
+              "y": 10
+            },
+            {
+              "x": 22,
+              "y": 10
+            },
+            {
+              "x": 22,
+              "y": 9
+            },
+            {
+              "x": 21,
+              "y": 9
+            },
+            {
+              "x": 21,
+              "y": 7
+            },
+            {
+              "x": 20,
+              "y": 7
+            },
+            {
+              "x": 20,
+              "y": 6
+            },
+            {
+              "x": 19,
+              "y": 6
+            },
+            {
+              "x": 19,
+              "y": 5
+            },
+            {
+              "x": 18,
+              "y": 5
+            },
+            {
+              "x": 18,
+              "y": 3
+            },
+            {
+              "x": 17,
+              "y": 3
+            },
+            {
+              "x": 17,
+              "y": 1
+            },
+            {
+              "x": 16,
+              "y": 1
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "water-13-4-0",
+          "type": "water-geometry",
+          "x": 416,
+          "y": 128,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 0
+            },
+            {
+              "x": 32,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "water-14-4-0",
+          "type": "water-geometry",
+          "x": 448,
+          "y": 128,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 1
+            },
+            {
+              "x": 15,
+              "y": 1
+            },
+            {
+              "x": 15,
+              "y": 3
+            },
+            {
+              "x": 14,
+              "y": 3
+            },
+            {
+              "x": 14,
+              "y": 5
+            },
+            {
+              "x": 13,
+              "y": 5
+            },
+            {
+              "x": 13,
+              "y": 6
+            },
+            {
+              "x": 12,
+              "y": 6
+            },
+            {
+              "x": 12,
+              "y": 7
+            },
+            {
+              "x": 11,
+              "y": 7
+            },
+            {
+              "x": 11,
+              "y": 9
+            },
+            {
+              "x": 10,
+              "y": 9
+            },
+            {
+              "x": 10,
+              "y": 10
+            },
+            {
+              "x": 9,
+              "y": 10
+            },
+            {
+              "x": 9,
+              "y": 11
+            },
+            {
+              "x": 7,
+              "y": 11
+            },
+            {
+              "x": 7,
+              "y": 12
+            },
+            {
+              "x": 6,
+              "y": 12
+            },
+            {
+              "x": 6,
+              "y": 13
+            },
+            {
+              "x": 5,
+              "y": 13
+            },
+            {
+              "x": 5,
+              "y": 14
+            },
+            {
+              "x": 3,
+              "y": 14
+            },
+            {
+              "x": 3,
+              "y": 15
+            },
+            {
+              "x": 1,
+              "y": 15
+            },
+            {
+              "x": 1,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Exact occupied-water-pixel outline; geometry annotation only, no engine validation."
+            },
+            {
+              "name": "corner_mask",
+              "type": "int",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "rock-10-1",
+          "type": "rock-geometry",
+          "x": 320,
+          "y": 32,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 7,
+              "y": 17
+            },
+            {
+              "x": 12,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 10
+            },
+            {
+              "x": 27,
+              "y": 17
+            },
+            {
+              "x": 25,
+              "y": 26
+            },
+            {
+              "x": 9,
+              "y": 27
+            },
+            {
+              "x": 5,
+              "y": 23
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Visible rock outline annotation only; no engine validation."
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "rock-14-5",
+          "type": "rock-geometry",
+          "x": 448,
+          "y": 160,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 7,
+              "y": 17
+            },
+            {
+              "x": 12,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 10
+            },
+            {
+              "x": 27,
+              "y": 17
+            },
+            {
+              "x": 25,
+              "y": 26
+            },
+            {
+              "x": 9,
+              "y": 27
+            },
+            {
+              "x": 5,
+              "y": 23
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Visible rock outline annotation only; no engine validation."
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "rock-11-10",
+          "type": "rock-geometry",
+          "x": 352,
+          "y": 320,
+          "width": 0,
+          "height": 0,
+          "rotation": 0,
+          "visible": true,
+          "polygon": [
+            {
+              "x": 7,
+              "y": 17
+            },
+            {
+              "x": 12,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 10
+            },
+            {
+              "x": 27,
+              "y": 17
+            },
+            {
+              "x": 25,
+              "y": 26
+            },
+            {
+              "x": 9,
+              "y": 27
+            },
+            {
+              "x": 5,
+              "y": 23
+            }
+          ],
+          "properties": [
+            {
+              "name": "purpose",
+              "type": "string",
+              "value": "Visible rock outline annotation only; no engine validation."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
